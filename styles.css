@@ -1,0 +1,17 @@
+body{
+    background-color: springgreen;
+    font-family: Calibri;
+}
+
+#eerste {
+    color: teal;
+}
+
+#tweede {
+    color: hotpink;
+}
+
+li{
+    font-size: large;
+    color: indigo;
+}
